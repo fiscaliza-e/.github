@@ -1,7 +1,7 @@
 # FISCALIZA-e - Uma ferramenta de garantia dos direitos do povo arapiraquense
 
 O FISCALIZA-e foi uma ideia pensada para facilitar o registro de reclamações sobre serviços públicos no município de Arapiraca. O sistema busca fortalecer a cidadania, promovendo a aproximação entre a população e os órgãos responsáveis pela manutenção dos serviços públicos.
-	Como o FISCALIZA-e, os cidadãos podem registrar suas denúncias relacionadas a setores como iluminação pública, pavimentação, saneamento básico, obras públicas, entre outros. O sistema permite ainda o envio de fotos e acompanhamento do status de cada solicitação, garantindo maior transparência e praticidade.
+	Com o FISCALIZA-e, os cidadãos podem registrar suas denúncias relacionadas a setores como iluminação pública, pavimentação, saneamento básico, obras públicas, entre outros. Além disso, o sistema também permite o envio de fotos e acompanhamento do status de cada solicitação, garantindo maior transparência e praticidade.
 
 ### Contribuidores:
 | Nome | Email |
@@ -14,4 +14,4 @@ O FISCALIZA-e foi uma ideia pensada para facilitar o registro de reclamações s
 
 
 ### Documentação do projeto:
-[Clique aqui](https://docs.google.com/document/d/1FgHwa22v6Ebj0CAUKz-03oDhSKhRNhcwm44bfObQvD8/edit?usp=sharing)
+* [Modelo Entidade-Relacionamento](https://docs.google.com/document/d/1FgHwa22v6Ebj0CAUKz-03oDhSKhRNhcwm44bfObQvD8/edit?usp=sharing)
