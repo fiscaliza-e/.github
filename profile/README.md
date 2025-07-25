@@ -14,5 +14,5 @@ O FISCALIZA-e foi uma ideia pensada para facilitar o registro de reclamações s
 
 
 ### Documentação do projeto:
-* [Documentação completa](https://docs.google.com/document/d/1FgHwa22v6Ebj0CAUKz-03oDhSKhRNhcwm44bfObQvD8/edit?usp=sharing)
-* [Modelo Entidade-Relacionamento](https://drive.google.com/file/d/1cje2gWmWBtV_6oupsXXLDJNSKypioUMl/view)
+* [Documentação de Requisitos](https://docs.google.com/document/d/1SU4EWsmOMlHIzISzl-SAF4dZN6zElo0Z81ra2Y798AE/edit?tab=t.0)
+* [Documentos referentes à Gerência de Projeto](https://docs.google.com/document/d/14Dj8g_wd7y1N4ul_QQY9LOS3jC_SN1xG34BziCWEN0w/edit?tab=t.0)
